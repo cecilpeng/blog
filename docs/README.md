@@ -21,3 +21,5 @@
 - [VuePress](/study/vuepress/)
 
 ## 思考系列
+
+- [有效教学](/think/teach)
