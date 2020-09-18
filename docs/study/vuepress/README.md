@@ -16,9 +16,8 @@
 
 分层次进行学习，切记不要一开始就拘泥于细节。
 
-1. 快速通读[VuePress docs](https://vuepress.vuejs.org/zh/guide/#%E5%AE%83%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84)
-2. 梳理知识结构，输出脑图
-3. 选择最容易理解的部分，搭建最基本的博客
+1. 快速通读[VuePress docs](https://vuepress.vuejs.org/zh/guide/#%E5%AE%83%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84)，找出最容易理解的、最需要学习的部分
+2. 搭建最基本的博客，做出可视化的成果，开心一下
 
 ## 快速通读
 
@@ -34,14 +33,13 @@
 
 - 能做什么
 
-1. 零基础入门：以 Markdown 为核心，你可以不懂前端开发，重点关注[Markdown 拓展](https://vuepress.vuejs.org/zh/guide/markdown.html)即可
+1. 零基础入门：以 Markdown 为核心，你可以不懂前端开发，重点关注Markdown语法即可
 2. 低成本进阶：以 Vue+Webpack 为基础，对于懂前端开发的小伙伴，可以学习主题和自定义页面
 3. 丰富的生态：插件体系，官方提供一些插件，另外在 github 上也可以搜到很多插件
 4. 国际化
 
-- 重点学什么
+## 入门实践
 
-博客最主要的是内容，暂时也不需要国际化支持，所以第一重要的是：
-
-1. [如何搭建最简单的 vuepress 站点](start.md)
-2. [写markdown的基本知识](entry.md)
+1. [搭建最简单的 vuepress 站点](start.md)
+2. [零基础入门需要的基本知识](entry.md)
+3. [最快部署博客](deploy.md)
