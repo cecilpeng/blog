@@ -49,4 +49,11 @@ module.exports = {
 Hello VuePress
 ```
 
-创建之后，运行`npm run docs:dev`，浏览器访问`http://localhost:8080`就可以看到`Hello VuePress`
+创建之后，运行
+
+```
+npm install // yarn install
+npm run docs:dev
+```
+
+浏览器访问`http://localhost:8080`就可以看到`Hello VuePress`
