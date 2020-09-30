@@ -10,10 +10,14 @@
 
 ### 考虑点
 
-- [初创团队技术选型](./choice.md)
-- [前后端分离](./separation.md)
+- [初创团队技术选型](./point/choice.md)
+- [前后端分离](./point/separation.md)
+
+### 研发
+
+- [研发流程](./develop/process.md)
 
 ### 运维
 
-- [日志系统](./log/)
-- [质量监控](./monitor/)
+- [日志系统](./operation/log/)
+- [质量监控](./operation/monitor/)
