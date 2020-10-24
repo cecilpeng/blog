@@ -12,4 +12,10 @@
 
 :::
 
-- [VuePress](./vuepress/)
+### 技术
+
+- [VuePress](./tech/vuepress/)
+
+### FM
+
+- [创业36条军规](./fm/startup-rule.md)

@@ -12,6 +12,7 @@
 
 - [初创团队技术选型](./point/choice.md)
 - [前后端分离](./point/separation.md)
+- [质量建设](./point/quality.md)
 
 ### 研发
 
